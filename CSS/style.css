@@ -1,9 +1,9 @@
 @charset "UTF-8";
 
 
-a {
-    border: 1px solid red;
-    width: 100px;
-    height: 100px;
-    display: block;
+
+.card-box{
+    color: red;
+    width: 260px;
+    height: 360px;
 }

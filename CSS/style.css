@@ -5,6 +5,12 @@ body {
   background-color: #eee;
 }
 
+input[type="submit"]:hover, button:hover {
+  opacity: 0.7;
+  transition: 0.3s;
+}
+
+
 .bg {
   position: absolute;
   width: 100%;
